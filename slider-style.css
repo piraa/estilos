@@ -8,7 +8,7 @@
     background: #fff url(images/loading.gif) no-repeat 50% 50%;
     -moz-box-shadow: 0 0 3px rgba(0,0,0,0.4);
     -webkit-box-shadow: 0 0 3px rgba(0,0,0,0.4);
-    box-shadow: 0 0 3px rgba(0,0,0,0.4);
+    box-shadow: 0 0 0px rgba(0,0,0,0.4);
 }
 .lean-slider { overflow: hidden; }
 .lean-slider-slide {
